@@ -1,0 +1,24 @@
+http://flight.qunar.com/twell/flight/busy.jsp
+
+
+?ret=http%3A%2F%2Fflight.qunar.com%2Fsite%2Foneway_list.htm%3FsearchDepartureAirport%3D%25E6%259D%25AD%25E5%25B7%259E%26searchArrivalAirport%3D%25E6%25B5%25B7%25E5%258F%25A3%26searchDepartureTime%3D2014-01-27%26searchArrivalTime%3D2014-01-27%26nextNDays%3D0%26startSearch%3Dtrue%26from%3Dtejia_rili%26sd_idx%3D4%26SearchLocation%3Dsevenday_search
+
+
+
+芒果订机票
+http://www.mangocity.com/
+
+http://flight.mangocity.com/flights-search.shtml
+queryPara.lineType='wo' 单程
+
+tvlReq.childCount='0'
+tvlReq.seatType＝'Y'
+queryPara.depAirport=''
+queryPara.arrAirport=''
+tvlReq.psgType='ADT'
+queryPara.depCity='HGH'  //出发地杭州
+
+queryPara.arrCity＝'HAK'  //到达地
+
+queryPara.depDate＝'2013-12-25' //出发日
+ 
